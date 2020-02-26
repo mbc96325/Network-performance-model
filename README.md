@@ -2,7 +2,7 @@
 Event-based simulation model for public transit system
 
 # Description
-This is an archive of paper "Capacity-Constrained Network Performance Model for Urban Rail Systems". The data is unavaiable due to privacy issues.
+This is an archive of project "Capacity-Constrained Network Performance Model for Urban Rail Systems". Data are unavaiable due to privacy issues.
 
 # How to use
-Please read the paper and user document.
+Please read the paper and user documents.
